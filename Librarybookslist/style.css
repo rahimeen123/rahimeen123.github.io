@@ -1,0 +1,21 @@
+
+.container-bg{
+    background-color: #36220b;
+}
+
+.header >h1{
+    font-size: 50px;
+}
+
+
+#Add-button{
+    background-color: 	#d6b575;
+    color: #36220b;
+}
+
+.delete-button{
+    background-color: 	#d6b575;
+    color: #36220b;
+    border-radius: 50px;
+    border-color:  #36220b;
+}
